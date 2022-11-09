@@ -3,3 +3,6 @@
 I carried out an analysis of Zentel Network Service Center's ticket data, between the 1st and 31st of December, 2020. This [dataset](https://github.com/PauloDaguvnor/DataFest-Datathon-Materials/blob/main/Zentel%20Network%20Service%20Ticket%20Data.xlsx) was first provided at Datafest Africa's Data Hackathon, held on the 8th of October, 2022. The dataset contained 5,998 entries with 12 columns. Features ranged from Report ID, channel, operator, among others. The original notebook was done by me in conjuction with Zion Oluwasegun and Oladimeji Olaniyan.
 
 Data was wrangled using Python and Power Query, while visualisation was done using PowerBI.
+
+### Visualisation:
+Here is the link to the interactive [report](https://app.powerbi.com/view?r=eyJrIjoiZGRlMzgwYTgtM2EzNC00YjA0LWIwYjEtOWU0ZjEwYzcwM2E4IiwidCI6ImEzMjNmYmMzLTM3NzUtNDNhMi05MWYxLTA4YWY1ZTA1MTVhZSJ9&pageName=ReportSection97bb0184f555c9ae58f6).
