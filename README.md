@@ -5,4 +5,4 @@ I carried out an analysis of Zentel Network Service Center's ticket data, betwee
 Data was wrangled using Python and Power Query, while visualisation was done using PowerBI.
 
 ### Visualisation:
-Here is the link to the interactive [report](https://app.powerbi.com/view?r=eyJrIjoiZGRlMzgwYTgtM2EzNC00YjA0LWIwYjEtOWU0ZjEwYzcwM2E4IiwidCI6ImEzMjNmYmMzLTM3NzUtNDNhMi05MWYxLTA4YWY1ZTA1MTVhZSJ9&pageName=ReportSection97bb0184f555c9ae58f6).
+Here is the link to the interactive [report](https://app.powerbi.com/view?r=eyJrIjoiYjE4ZDRjNTMtYzY4OS00ZjZmLTg2NmUtNTY2ZmJlMDcyYmVkIiwidCI6ImEzMjNmYmMzLTM3NzUtNDNhMi05MWYxLTA4YWY1ZTA1MTVhZSJ9&pageName=ReportSection97bb0184f555c9ae58f6).
